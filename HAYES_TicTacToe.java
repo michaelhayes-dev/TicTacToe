@@ -1,3 +1,14 @@
+/** This program uses a simple java swing GUI to implement a TicTacToe game.
+ *  The game can be played against the computer, or against another player.
+ * 
+ *  @author Michael Hayes
+ *  @version 1.1
+ * 
+ *  Revision History:
+ *        9/8/16  - Added JavaDoc introductory comments to conform with industry standards
+ *        5/27/15 - Initial release
+ */
+
 import java.awt.*; //for gui
 import java.awt.event.*; //for events
 import javax.swing.*; //for gui
